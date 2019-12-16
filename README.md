@@ -1,2 +1,4 @@
 # CSS-tutorial-for-beginners
-CSS youtube course for beginners, created by The Net Ninja
+Repository based on youtube course produced by The Net Ninja. Here is the -->[link](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQeDH6xYhmO-db2mhoTSrT)<-- for that course. 
+
+It will help me to understand basics of CSS!
