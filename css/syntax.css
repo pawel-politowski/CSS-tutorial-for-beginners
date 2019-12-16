@@ -1,4 +1,17 @@
+/*****************
+* Author: Pawel Politowski
+* Date: 15.12.2019
+*****************/
+
+/* Style all p tags */
+
 p{
     font-size: 18px;
     color: blue;
+}
+
+/* Style all header tags */
+
+h1{
+    font size: 44px;
 }
