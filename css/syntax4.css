@@ -1,7 +1,5 @@
-article.featured-content{
-    background: red;
-}
-
-div.featured-content{
-    background: blue;
+body{
+    color: red;
+    margin: 0;
+    padding: 0;
 }
