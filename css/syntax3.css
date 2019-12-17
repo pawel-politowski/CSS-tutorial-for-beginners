@@ -1,3 +1,7 @@
-#all-articles h2 + p{
-    color: green;
+article p:first-of-type{
+   font-weight: bold;
+}
+
+article p:last-of-type{
+    color: red;
 }
