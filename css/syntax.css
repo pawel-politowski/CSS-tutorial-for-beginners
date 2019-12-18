@@ -1,8 +1,7 @@
-h1{
-    font-weight: normal;
+#header p{
+    text-transform: capitalize;
 }
 
-p{
-    font-weight: lighter;
-    font-family: 'Courier New';
+body > p{
+    text-transform: lowercase;
 }
